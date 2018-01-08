@@ -13,7 +13,7 @@
   "main": "index.js",
   "dependencies": {
     "basic-auth": "^1.0.0",
-    "bluebird": "^2.9.13",
+    "bluebird": "^3.5.1",
     "camel-case": "^1.1.1",
     "lodash": "^3.3.1",
     "standard-http-error": "^1.1.0",
